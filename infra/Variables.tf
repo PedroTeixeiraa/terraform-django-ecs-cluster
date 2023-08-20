@@ -1,0 +1,3 @@
+variable "cargoIAM" {
+  type        = string
+}
